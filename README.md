@@ -1,4 +1,3 @@
-# _home_-user-_.config_fish
 /home/"USER"/.config/fish
 
 
